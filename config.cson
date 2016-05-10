@@ -1,0 +1,10 @@
+"*":
+  core:
+    themes: [
+      "one-dark-ui"
+      "dark-monokai-batch"
+    ]
+  "exception-reporting":
+    userId: "01d7d5a4-a4f9-33c4-039b-fcd8b5cd71a5"
+  welcome:
+    showOnStartup: false
